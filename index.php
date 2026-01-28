@@ -13,7 +13,7 @@ $welcomeInterpol = "Welcome $firstName $lastName";
 <head>
     <meta charset="UTF-8" />
     <title>Professional Sports Coach</title>
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="style.css" />
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet" />
 </head>
 <body>
